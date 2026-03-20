@@ -1,0 +1,41 @@
+{
+    "fromMe": [{
+        "id": "0000",
+        "details": [
+            [
+                "💐💐💐Gửi tặng Minh Thương iu dấu🩵💐💐💐",
+                "Chúc mừng ngày quốc tế hạnh phúc 😘",
+                "🌹🌹🌹Tặng cậu iuu trái timm🌹🌹🌹",
+                "<pre>🍀🍀🍀🌹🍀🍀🍀🌹🍀🍀🍀 \n🍀🍀🌹🌹🌹🍀🌹🌹🌹🍀🍀 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🍀🍀🌹🌹🌹🌹🌹🌹🌹🍀🍀 \n🍀🍀🍀🌹🌹🌹🌹🌹🍀🍀🍀 \n🍀🍀🍀🍀🍀🌹🍀🍀🍀🍀🍀</pre>",
+                "Mk nhớ cậu iuu quáaa😢",
+                "Hôm nay là ngày quốc tế hạnh phúc mà mk lại ở xa mk gửi cậu iuu bó hoa này trước mk bù sauuu",
+                "<img src='img/pic1.jpg'>",
+                "Công chúa của mk hem được buồn đó 🩵",
+                "Ra ngoài mạnh mẽ với cả thế giới để điểm tựa là mk🩵",
+                "<img src='img/pic3.jpg'>",
+                "Đêm doì đã đến giờ đi ngụ ròii",
+                "🩵Mk có mấy lời chúc cho công chúa 🩵",
+                "Trăng sáng lên cao mây đã mờ😘",
+                 "Một chúc văn vở từ mk đây😎",
+                 "Gửi tới cậu iuu lời chưa ngỏ 😘 ",
+                 "Chúc công chúa nhỏ ngủ thật ngonn 😴 ",
+                "<img src='img/pic2.jpg'>"
+                
+            ]
+        ],
+        "responses": [{
+            "content": "ĐP mini",
+            "nextAuthor": ["0001"]
+        }]
+    }, {
+        "id": "0001",
+        "details": [
+            [
+                "Mk sẽ hóa thân thành cây chối để quét hết muộn phiền của cậu iuu 🩵😁",
+                "Mk sẽ hóa thân thành vệ sĩ để bảo vệ giấc ngủ của Minh Thương 🩵",
+                "Minh Thương ngủ ngonn😘"
+            ]
+        ]
+    }],
+    "fromUser": []
+}
